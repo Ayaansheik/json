@@ -1,0 +1,38 @@
+[
+    {
+        "productName" : "headphone",
+        "productPrice" : 3100,
+        "productRating" : "3.5",
+        "productimg" : "img1.jpeg"
+    },
+    {
+        "productName" : "Microphone",
+        "productPrice" : 6600,
+        "productRating" : 4.5,
+        "productimg" : "img1.jpeg"
+    },
+    {
+        "productName" : "Mouse",
+        "productPrice" : 750,
+        "productRating" : "3.5",
+        "productimg" : "img1.jpeg"
+    },
+    {
+        "productName" : "Mouse",
+        "productPrice" : 750,
+        "productRating" : "3.5",
+        "productimg" : "img1.jpeg"
+    },
+    {
+        "productName" : "Mouse",
+        "productPrice" : 750,
+        "productRating" : "3.5",
+        "productimg" : "img1.jpeg"
+    },
+    {
+        "productName" : "Mouse",
+        "productPrice" : 750,
+        "productRating" : "3.5",
+        "productimg" : "img1.jpeg"
+    }
+]
